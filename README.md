@@ -24,4 +24,9 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashBora21/YashBora21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YashBora21/YashBora21/output/github-snake.svg" />
 </picture>
+## 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 

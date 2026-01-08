@@ -28,5 +28,6 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+---
+[![](https://visitcount.itsvg.in/api?id=YashBora21&icon=0&color=0)](https://visitcount.itsvg.in)
 

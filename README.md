@@ -24,8 +24,9 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashBora21/YashBora21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YashBora21/YashBora21/output/github-snake.svg" />
 </picture>
-## 📊 Weekly development breakdown
 
+## 📊 Weekly development breakdown
+---
 <!--START_SECTION:waka-->
 
 ```txt
@@ -37,6 +38,6 @@ Git Config   4 mins                ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
----
+
 [![](https://visitcount.itsvg.in/api?id=YashBora21&icon=0&color=0)](https://visitcount.itsvg.in)
 

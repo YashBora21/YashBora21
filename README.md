@@ -27,6 +27,15 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 March 2026 - To: 05 April 2026
+
+Python       2 hrs 3 mins          ███████████████████████▒░   92.80 %
+Markdown     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Git Config   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+```
+
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=YashBora21&icon=0&color=0)](https://visitcount.itsvg.in)

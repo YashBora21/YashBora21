@@ -26,11 +26,11 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Python   4 hrs 41 mins         ███████████████████▒░░░░░   77.67 %
-C++      1 hr 19 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-Other    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python   3 hrs 22 mins         ██████████████████░░░░░░░   71.44 %
+C++      1 hr 19 mins          ███████░░░░░░░░░░░░░░░░░░   27.97 %
+Other    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->

@@ -26,13 +26,13 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-HTML         8 hrs 38 mins         ██████████████████▓░░░░░░   74.27 %
-JavaScript   53 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Text         39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Java         27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-JSON         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+HTML         6 hrs 37 mins         █████████████████▒░░░░░░░   68.89 %
+JavaScript   53 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Text         39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Java         27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JSON         20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->

@@ -26,7 +26,7 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
 Python     7 hrs 11 mins         ███████████████████████░░   92.54 %
 Bash       16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %

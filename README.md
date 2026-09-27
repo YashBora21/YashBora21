@@ -1,30 +1,85 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Yash+Bora;A+Developer+building+cool+products;from+India+%F0%9F%87%AE%F0%9F%87%B3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Yash+Bora;A+Developer+building+cool+products;from+India+%F0%9F%87%AE%F0%9F%87%B3)
+
+**Machine Learning · Data Science · Software Development**
 
 <br>
 
-<img src="https://www.thegitcity.com/dev/yashbora21/opengraph-image" width="600" alt="Yash Bora - Git City">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bora-149787290)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbora567@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashbora12/)
+
+<br>
+
+<img src="https://www.thegitcity.com/dev/yashbora21/opengraph-image" width="700" alt="Yash Bora - Git City">
 
 </div>
 
 ---
 
-## Hi there 👋
+## 💫 A Little About Me
 
-# 💫 About Me
+I’m an IT Engineering student at **PVGCOET Pune** who enjoys turning ideas and data into useful applications. My experience spans machine learning, data analysis, and backend development—from building predictive models to creating interactive visualizations.
 
-I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Machine Learning, Data Science, PostgreSQL, Data Visualization, and a strong foundation in Data Structures & Algorithms (DSA) in C++. I enjoy analyzing complex datasets, building predictive models, and creating interactive visualizations that drive actionable insights. Passionate about exploring new technologies and collaborating on innovative projects, I strive to leverage data to solve real-world problems and create impactful solutions.
+- 🧠 **Interests:** Machine Learning, Data Science, and AI applications
+- 🛠️ **What I enjoy:** Analyzing datasets, building models, and bringing projects to life
+- 🧩 **Problem solving:** Data Structures and Algorithms in C++
+- 🤝 **Open to:** Collaborating on practical projects and learning along the way
 
-## 🌐 Socials
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashbora12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bora-149787290) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashbora567@gmail.com)
+## 💻 Tools I Work With
 
-# 💻 Tech Stack
+<div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+### Languages
 
-## 📊 Weekly Development Breakdown
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Machine Learning & Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Deployment
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=YashBora21&theme=darcula&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Yash's GitHub statistics">
+<img src="https://streak-stats.demolab.com/?user=YashBora21&theme=darcula&hide_border=true" width="49%" alt="Yash's contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashBora21&theme=darcula&hide_border=true&layout=compact" width="45%" alt="Most used languages">
+
+</div>
+
+### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -36,4 +91,18 @@ Other   1 hr 8 mins           ████████████████�
 
 <!--END_SECTION:waka-->
 
-[![](https://visitcount.itsvg.in/api?id=YashBora21&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<div align="center">
+
+### ✍️ A Little Dev Inspiration
+
+![Developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+**Have an interesting idea? Let’s connect and build something.**
+
+[![](https://komarev.com/ghpvc/?username=YashBora21&icon=1&color=6)](https://visitcount.itsvg.in)
+
+</div>

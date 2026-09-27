@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://www.thegitcity.com/dev/yashbora21/opengraph-image" width="600" alt="Yash Bora - Git City"/>
+<img src="https://www.thegitcity.com/dev/yashbora21/opengraph-image" width="600" alt="Yash Bora - Git City">
 
 </div>
 
@@ -18,7 +18,7 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashbora12/?igsh=aWM1ZjRxc2d0d2Qy#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bora-149787290) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashbora567@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashbora12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bora-149787290) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashbora567@gmail.com)
 
 # 💻 Tech Stack
 
@@ -28,7 +28,8 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 
 ## 📈 GitHub Contributions
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBora21&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[View my contribution calendar](https://github.com/YashBora21#user-activity-overview)
+
 ---
 
 ## 📊 Weekly Development Breakdown

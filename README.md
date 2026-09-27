@@ -28,8 +28,7 @@ I’m an IT Engineering student at PVGCOET Pune, with hands-on experience in Mac
 
 ## 📈 GitHub Contributions
 
-![Yash's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBora21&theme=github-compact)
-
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBora21&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 📊 Weekly Development Breakdown

@@ -84,11 +84,13 @@ I’m an IT Engineering student at **PVGCOET Pune** who enjoys turning ideas and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Python        11 hrs 36 mins        █████████████████████░░░░   83.82 %
-Bash          29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python        12 hrs 58 mins        █████████████████████░░░░   83.54 %
+Bash          37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+CSV           26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Markdown      26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON          23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
